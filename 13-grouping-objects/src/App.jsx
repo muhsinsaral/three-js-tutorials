@@ -106,14 +106,14 @@ function App() {
     });
     const moonMesh = new THREE.Mesh(moonGeometry, moonMaterial);
     moonOrbit.add(moonMesh);
-    moonOrbit.position.x = 12;
-    moonMesh.position.x = 4;
+    moonOrbit.position.x = 42;
+    moonMesh.position.x = 40;
     earthOrbit.add(moonOrbit);
 
     // part 3.3 - animate earth rotation and moon rotation
     const animate = () => {
-      earthOrbit.rotation.y += 0.005;
-      moonOrbit.rotation.y += 0.05;
+      earthOrbit.rotation.y += 0.065;
+      moonOrbit.rotation.y += 0.55;
       window.requestAnimationFrame(animate);
     };
     animate();

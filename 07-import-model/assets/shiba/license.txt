@@ -1,11 +1,11 @@
 Model Information:
-* title:	Shiba
-* source:	https://sketchfab.com/3d-models/shiba-faef9fe5ace445e7b2989d1c1ece361c
-* author:	zixisun02 (https://sketchfab.com/zixisun51)
+* title:	Sketchfab is 10!
+* source:	https://sketchfab.com/3d-models/sketchfab-is-10-5af3339daa85427d987808a8a2ba37fb
+* author:	Sketchfab (https://sketchfab.com/Sketchfab)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Shiba" (https://sketchfab.com/3d-models/shiba-faef9fe5ace445e7b2989d1c1ece361c) by zixisun02 (https://sketchfab.com/zixisun51) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Sketchfab is 10!" (https://sketchfab.com/3d-models/sketchfab-is-10-5af3339daa85427d987808a8a2ba37fb) by Sketchfab (https://sketchfab.com/Sketchfab) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

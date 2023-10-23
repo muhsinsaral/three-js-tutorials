@@ -5,7 +5,7 @@ import * as THREE from 'three';
 // import { OBJLoader } from 'three/examples/jsm/loaders/OBJLoader';
 // import { VOXLoader } from 'three/examples/jsm/loaders/VOXLoader';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
-
+import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 import SceneInit from './lib/SceneInit';
 
 function App() {
@@ -31,15 +31,15 @@ function App() {
       test.scene.add(gltfScene.scene);
     });
 
-    const animate = () => {
-      if (loadedModel) {
-        loadedModel.scene.rotation.x += 0.01;
-        loadedModel.scene.rotation.y += 0.01;
-        loadedModel.scene.rotation.z += 0.01;
-      }
-      requestAnimationFrame(animate);
-    };
-    animate();
+    // const animate = () => {
+    //   if (loadedModel) {
+    //     loadedModel.scene.rotation.x += 0.01;
+    //     loadedModel.scene.rotation.y += 0.01;
+    //     loadedModel.scene.rotation.z += 0.01;
+    //   }
+    //   requestAnimationFrame(animate);
+    // };
+    // animate();
   }, []);
 
   return (
