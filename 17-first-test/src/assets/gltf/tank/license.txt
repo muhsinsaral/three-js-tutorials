@@ -1,0 +1,11 @@
+Model Information:
+* title:	Milk Churn
+* source:	https://sketchfab.com/3d-models/milk-churn-d5aeb3ea0de74d3f989a1649da50aae0
+* author:	Wittybacon (https://sketchfab.com/wittybacon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Milk Churn" (https://sketchfab.com/3d-models/milk-churn-d5aeb3ea0de74d3f989a1649da50aae0) by Wittybacon (https://sketchfab.com/wittybacon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
